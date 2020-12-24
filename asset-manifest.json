@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Christmas/static/css/main.1bada990.chunk.css",
+    "main.js": "/Christmas/static/js/main.50d52939.chunk.js",
+    "main.js.map": "/Christmas/static/js/main.50d52939.chunk.js.map",
+    "runtime-main.js": "/Christmas/static/js/runtime-main.d45ececc.js",
+    "runtime-main.js.map": "/Christmas/static/js/runtime-main.d45ececc.js.map",
+    "static/js/2.8e029eaa.chunk.js": "/Christmas/static/js/2.8e029eaa.chunk.js",
+    "static/js/2.8e029eaa.chunk.js.map": "/Christmas/static/js/2.8e029eaa.chunk.js.map",
+    "index.html": "/Christmas/index.html",
+    "static/css/main.1bada990.chunk.css.map": "/Christmas/static/css/main.1bada990.chunk.css.map",
+    "static/js/2.8e029eaa.chunk.js.LICENSE.txt": "/Christmas/static/js/2.8e029eaa.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/Christmas/static/media/Bow and snow.4b571af6.png",
+    "static/media/index.css": "/Christmas/static/media/Snow background.10f0f9c6.png",
+    "static/media/bear.33467377.png": "/Christmas/static/media/bear.33467377.png",
+    "static/media/blocks.b91eb89e.png": "/Christmas/static/media/blocks.b91eb89e.png",
+    "static/media/football.2ad6bd52.png": "/Christmas/static/media/football.2ad6bd52.png",
+    "static/media/hat.31d6cfe0.svg": "/Christmas/static/media/hat.31d6cfe0.svg",
+    "static/media/soldier.6af9a675.png": "/Christmas/static/media/soldier.6af9a675.png",
+    "static/media/train.3707fb73.png": "/Christmas/static/media/train.3707fb73.png",
+    "static/media/tricycle.3b715bae.png": "/Christmas/static/media/tricycle.3b715bae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d45ececc.js",
+    "static/js/2.8e029eaa.chunk.js",
+    "static/css/main.1bada990.chunk.css",
+    "static/js/main.50d52939.chunk.js"
+  ]
+}
